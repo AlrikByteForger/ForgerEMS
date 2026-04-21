@@ -5,11 +5,6 @@ release/*
 !release/README.md
 
 .tmp/
-.vs/
-**/bin/
-**/obj/
-*.user
-*.suo
 
 _archive/
 _downloads/
@@ -32,4 +27,3 @@ VentoyToolkitSetup/IfScriptFails(ManualSetup)/
 *.tmp
 *.temp
 *.zip
-dist/
